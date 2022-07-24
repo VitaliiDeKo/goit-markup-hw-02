@@ -1,0 +1,90 @@
+:root {
+  --main-title-color: #ffffff;
+  --second-title-color: #303030;
+  --main-btn-color: #ffffff;
+  --second-btn-color: #303030;
+  --typical-lh: 1.36;
+  --accent-color: #ff6c00;
+}
+body {
+  font-family: "Roboto Regular", sans-serif;
+  background-color: #F5F5F5;
+}
+.link{
+  text-decoration: none
+}
+header
+
+.header-link{
+font-family: 'Roboto';
+font-weight: 500;
+font-size: 14px;
+line-height: 1.14;
+letter-spacing: 0.02em;
+
+color: #212121;
+}
+
+.logo{
+  color: #2196F3;
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 1.19;
+  letter-spacing: 0.03em
+  text-decoration: none
+  }
+  
+.logo-bleck{
+  color: #000000;
+  font-family: Raleway;
+  font-style: normal;
+  font-size: 26px;
+  line-height: 1.19;
+  letter-spacing: 0.03em;
+ 
+}
+
+.text-decoration: none
+
+/* hiro */
+
+.footer-list{
+  color:aqua
+}
+/* studio-navigation styles */
+
+/*studio-mail styles */
+
+/* studio-phone namber styles */
+
+/* studio-main styles */
+
+/* studio-advances styles */
+
+/* studio-skills styles */
+
+/* studio-team styles */
+
+/* studio-futer styles */
+
+
+/* portfolio styles */
+
+/* portf-header styles */
+header
+/* portf-navigation styles */
+
+/* portf-post styles */
+
+/* portf-phone namber styles */
+
+/* portf-main styles */
+
+/* portf-batton styles */
+
+/* portf-project styles */
+
+/* portf-futer styles */  
+
